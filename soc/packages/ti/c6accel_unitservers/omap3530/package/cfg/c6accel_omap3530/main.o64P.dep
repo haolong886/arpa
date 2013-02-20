@@ -1,0 +1,17 @@
+package/cfg/c6accel_omap3530/main.o64P: main.c /usr/local/dvsdk/xdctools_3_16_03_36/packages/xdc/std.h /usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/CERuntime.h /usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/trace/gt.h /usr/local/dvsdk/cgt6x_6_1_14/include/stdarg.h /usr/local/dvsdk/cgt6x_6_1_14/include/stddef.h /usr/local/dvsdk/xdctools_3_16_03_36/packages/ti/targets/std.h /usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/Engine.h /usr/local/dvsdk/framework-components_2_26_00_01/packages/ti/sdo/utils/trace/gt.h /usr/local/dvsdk/cgt6x_6_1_14/include/stdint.h /usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/Server.h /usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/ipc/Comm.h /usr/local/dvsdk/xdais_6_26_01_03/packages/ti/xdais/ialg.h /usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/node/node.h /usr/local/dvsdk/cgt6x_6_1_14/include/stdio.h /usr/local/dvsdk/cgt6x_6_1_14/include/linkage.h 
+main.c:
+/usr/local/dvsdk/xdctools_3_16_03_36/packages/xdc/std.h:
+/usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/CERuntime.h:
+/usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/trace/gt.h:
+/usr/local/dvsdk/cgt6x_6_1_14/include/stdarg.h:
+/usr/local/dvsdk/cgt6x_6_1_14/include/stddef.h:
+/usr/local/dvsdk/xdctools_3_16_03_36/packages/ti/targets/std.h:
+/usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/Engine.h:
+/usr/local/dvsdk/framework-components_2_26_00_01/packages/ti/sdo/utils/trace/gt.h:
+/usr/local/dvsdk/cgt6x_6_1_14/include/stdint.h:
+/usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/Server.h:
+/usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/ipc/Comm.h:
+/usr/local/dvsdk/xdais_6_26_01_03/packages/ti/xdais/ialg.h:
+/usr/local/dvsdk/codec_engine_2_26_02_11/packages/ti/sdo/ce/node/node.h:
+/usr/local/dvsdk/cgt6x_6_1_14/include/stdio.h:
+/usr/local/dvsdk/cgt6x_6_1_14/include/linkage.h:
